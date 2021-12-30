@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farhanch67
 - 👀 I’m interested in Flutter development.
 - 🌱 I’m currently learning Flutter and Node.
-- 💞️ I’m looking to collaborate on with Cross Platform Developers.
+- 💞️ I’m looking to collaborate with Cross Platform Developers.
 - 📫 farhanaslam910@gmail.com
 
 <!---
