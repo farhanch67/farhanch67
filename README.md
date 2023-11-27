@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @farhanch67
-- 👀 I’m interested in Flutter development.
-- 🌱 I’m currently learning Flutter and Node.
-- 💞️ I’m looking to collaborate with Cross Platform Developers.
-- 📫 farhanaslam910@gmail.com
+👋🏻 Hello!
+I'm Farhan Aslam Chaudhary, a Software Engineer living in KSA. I love improving people’s lives by developing great products and building amazing teams.
 
-<!---
-farhanch67/farhanch67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanch67)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanch67)](https://github.com/anuraghazra/github-readme-stats)
+Great Products I've worked on
+
+YellowBeard - Damn good coffee is a complete digital solution from coffee seeds to a coffee machine and customer cup.
+Speed Kitchen - Where speed meets reliability a complete solution to customer, restauant and drivers for food delivery services.
+Million Mart - A multi-vendor Ecommerce solution with one million product options from your fignertips.
+
+Noteworthy Work
+
+   REST Apis/GraphQL
+   Google Map API's
+   Stripe Payments
+   AWS Storage
+   Veriff KYC & Identity Verification
+   Facebook Core Kit & Braze Marketing
+   Firebase Analytics, Crashlytics, Cloud Messaging & Chat
+   IPQualityScore Fraud Analysis
+   Native Swift & WidgetKit Services
+   
+Languages & Frameworks
+
+📱 Mobile: Flutter/Dart, Swift
+⚡️ State Management: Provider, Riverpod, GetX, BLoC, Redux
+💻 Web/Server: ReactJS, Redux, Python, FastAPI
+⚙ Database: MySQL, MSSQL, Firebase, Redis, MongoDB
+⠷ Bash, C++, Objective-C
+Architecture & Core Design
+
+📱 Mobile Architecture: MVC & MVVM Architectural Styles
+💻 Web Architecture: Service-oriented & Microservices architecture
+🔨 Design Patterns: Creational, Structural & Behavioural
+Tools & Platforms
+
+💼 JIRA, Scrum, MS Project, Knowledge Base, GitBook
+🔨 Git/SVN, GitHub Workflows, Codemagic CI/CD
+🛠 AWS, Heroku, Vercel, Netlify
+🚢 Apache, NGINX, Docker
