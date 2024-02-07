@@ -1,51 +1,19 @@
-# 👋🏻 Introduction
+# 👋🏻 Welcome to My Profile!
 
-Greetings! I'm Farhan Aslam Chaudhary, a seasoned Software Engineer residing in KSA. My passion lies in enhancing people's lives through the development of exceptional products and the establishment of high-performing teams.
+Hello there! I'm Farhan Aslam, a seasoned Software Engineer based in KSA, with a deep-rooted passion for crafting exceptional digital solutions and fostering high-performing teams. With over 20 professional certifications, including Google Certified Data Analyst, I bring a wealth of expertise across various domains.
 
-## 🚀 Projects Overview
+## 💻 Languages & Frameworks I Specialize In
 
-### YellowBeard
-
-- YellowBeard is a comprehensive digital solution spanning from coffee seeds to a coffee machine and the customer's cup. It embodies the essence of damn good coffee.
-
-### Speed Kitchen
-
-- Speed Kitchen is the convergence of speed and reliability, providing a holistic solution for customers, restaurants, and delivery drivers in the food delivery services domain.
-
-### Million Mart
-
-- Million Mart stands as a multi-vendor Ecommerce solution, boasting an extensive catalog of one million product options right at your fingertips.
-
-## 🌟 Noteworthy Contributions
-
-I've made significant contributions across various domains and technologies:
-
-- **REST Apis/GraphQL**
-- **Google Map API's**
-- **Stripe Payments**
-- **AWS Storage**
-- **Veriff KYC & Identity Verification**
-- **Facebook Core Kit & Braze Marketing**
-- **Firebase Analytics, Crashlytics, Cloud Messaging & Chat**
-- **IPQualityScore Fraud Analysis**
-- **Native Swift & WidgetKit Services**
-
-## 💻 Languages & Frameworks
-
-### Mobile
+### Mobile Development
 
 - **Flutter/Dart**
-- **Swift**
+- **Kotlin**
 
-### State Management
+### Web & Server-side
 
-- **Provider, Riverpod, GetX, BLoC, Redux**
+- **ReactJS, NextJS, NodeJS, NestJS, Redux, Python, FastAPI**
 
-### Web/Server
-
-- **ReactJS, Redux, Python, FastAPI**
-
-### Database
+### Databases
 
 - **MySQL, MSSQL, Firebase, Redis, MongoDB**
 
@@ -53,25 +21,72 @@ I've made significant contributions across various domains and technologies:
 
 - **Bash, C++, Objective-C**
 
-## 🏗 Architecture & Core Design
+## 🏗 Architecture & Design Principles
 
 ### Mobile Architecture
 
-- **MVC & MVVM Architectural Styles**
+- **Proficient in MVC & MVVM**
 
 ### Web Architecture
 
-- **Service-oriented & Microservices architecture**
+- **Experienced with Service-oriented & Microservices architecture**
 
 ### Design Patterns
 
-- **Creational, Structural & Behavioural**
+- **Expertise in Creational, Structural & Behavioral patterns**
 
-## 🛠 Tools & Platforms
+## 📊 Data Science & Analytics Expertise
 
-- **JIRA, Scrum, MS Project, Knowledge Base, GitBook**
-- **Git/SVN, GitHub Workflows, Codemagic CI/CD**
-- **AWS, Heroku, Vercel, Netlify**
-- **Apache, NGINX, Docker**
+As a Google Certified Data Analyst, I excel in:
 
-Feel free to explore more about my expertise and the projects I've undertaken. Looking forward to connecting and collaborating! 🚀
+- **Data Collection, Cleaning, and Preprocessing**
+- **Data Visualization and Interpretation**
+- **Statistical Analysis and Machine Learning**
+- **Predictive Modeling and Forecasting**
+- **Big Data Analytics and Data Mining**
+- **Dashboard Creation and Reporting**
+
+### Data Science & Analytics
+
+- **Python (NumPy, pandas, sci-kit-learn)**
+- **SQL (MySQL, PostgreSQL)**
+- **Jupyter Notebooks**
+- **Tableau**
+- **PowerBI**
+  
+## 🛠 Tools & Platforms I Utilize
+
+- **Project Management: JIRA, Scrum, MS Project, Knowledge Base, GitBook**
+- **Version Control: Git/SVN, GitHub Workflows, Codemagic CI/CD**
+- **Cloud & Hosting: AWS, Heroku, Vercel, Netlify**
+- **Server Technologies: Apache, NGINX, Docker**
+
+## 🚀 Projects Highlights
+
+### YellowBeard ☕
+
+YellowBeard isn't just about coffee; it's a meticulously designed digital solution that encompasses every stage from coffee seed to cup, delivering unparalleled coffee experiences.
+
+### Speed Kitchen 🚗🍽️
+
+Speed Kitchen is a testament to efficiency and reliability in the realm of food delivery services, offering a comprehensive solution for customers, restaurants, and delivery drivers.
+
+### Million Mart 🛒💻
+
+Million Mart redefines eCommerce with its robust multi-vendor platform, boasting a vast catalog of over a million products, and providing seamless shopping experiences.
+
+## 🌟 Notable Contributions & Expertise
+
+With a track record of success, I've made significant contributions in various domains and technologies, including:
+
+- **Building robust REST APIs and implementing GraphQL**
+- **Utilizing Google Maps APIs for location-based services**
+- **Securing transactions with Stripe Payments integration**
+- **Leveraging AWS for scalable storage solutions**
+- **Ensuring secure identity verification with Veriff KYC**
+- **Harnessing Facebook Core Kit & Braze for effective marketing campaigns**
+- **Leveraging Firebase for comprehensive analytics, crash reporting, messaging, and chat**
+- **Conducting fraud analysis using IPQualityScore**
+- **Developing Native Swift applications and services with WidgetKit**
+
+Feel free to explore more about my expertise and the projects I've undertaken. Let's connect and collaborate on exciting ventures! 🚀
